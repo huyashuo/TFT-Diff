@@ -7,7 +7,7 @@ Generate the core running part in \Experiments\chb_multiple_classes.ipynb or dem
 ## Generate Data or Train Data
 
 ~~~bash
-After running the previous step, the generated data is obtained in \chb_exp, and the test data and training data are obtained in \chb_exp\sample
+After running the previous step, the generated data is obtained in \chb_exp, and the test data and train data are obtained in \chb_exp\sample
 ~~~
 
 ## Metric Code
