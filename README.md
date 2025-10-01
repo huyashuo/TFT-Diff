@@ -2,7 +2,7 @@
 
 ~~~bash
 Generate the core running part in \Experiments\chb_multiple_classes.ipynb or demo.py
-run command：python demo.py
+(myenv) $ python demo.py
 ~~~
 
 ## Generate Data or Train Data
